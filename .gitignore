@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables and secrets
+.env
+.env.local
+*.env
+
+# Data files
+*.json
+*.log
+*.txt
+*.csv
+*.db
+*.sqlite
+
+# Cookies and session data
+*cookies*.json
+fb_cookies.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Service files
+*.service
+*.sh
+
